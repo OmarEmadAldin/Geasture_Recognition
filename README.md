@@ -1,4 +1,3 @@
-# Geasture_Recognition
 # Gesture Recognition for Robot Control
 
 This project focuses on recognizing specific hand gestures from video input and translating them into commands that can control a robot.
